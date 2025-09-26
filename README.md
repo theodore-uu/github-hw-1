@@ -2,7 +2,7 @@
 개인과제2
 
 # 수행 내용
-1. GitHub에서 github-hw 저장소 생성 (README 포함)  
+1. GitHub에서 github-hw 생성 (README.md 포함)  
 2. Sourcetree로 clone 후 a.txt 생성 및 commit -> push  
 3. Sourcetree 화면을 캡처하여 sourcetree_capture.pdf 생성 및 commit -> push  
 
